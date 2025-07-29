@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @agungsepruloh
-- 👀 I’m interested in Programming and Data-Science
-- 🌱 I’m currently learning Android with Kotlin
-- 💞️ I’m looking to collaborate on any kind of project
+- 👀 I’m interested in Programming and ERP Implementation
+- 🌱 I’m currently learning AI
+- 💞️ I’m looking to collaborate on any project
 - 📫 You can reach me via email: agungsepruloh1996@gmail.com or DM me on instagram @agungsepruloh_
-- 🌐 Check my github pages: 👉 https://agungsepruloh.github.io 👈
+- 🌐 Check my GitHub pages: 👉 https://agungsepruloh.github.io 👈
 
 <!---
 agungsepruloh/agungsepruloh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
